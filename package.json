@@ -1,0 +1,26 @@
+{
+  "name": "amount-to-text-in-bdt",
+  "version": "1.0.0",
+  "description": "Converts numbers (integer or decimal) to text in BDT currency format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oblivion97/Amount-To-Text-in-BDT.git"
+  },
+  "keywords": [
+    "\"bdt\"",
+    "\"currency\"",
+    "\"number-to-text\"",
+    "\"bangladesh\"",
+    "\"taka\""
+  ],
+  "author": "H M Mahmudul Hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oblivion97/Amount-To-Text-in-BDT/issues"
+  },
+  "homepage": "https://github.com/Oblivion97/Amount-To-Text-in-BDT#readme"
+}
